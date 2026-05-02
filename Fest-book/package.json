@@ -10,10 +10,13 @@
   "dependencies": {
     "@clerk/nextjs": "^6.15.1",
     "@react-google-maps/api": "^2.20.6",
+    "@splinetool/react-spline": "^4.1.0",
+    "@splinetool/runtime": "^1.12.90",
     "antd": "^5.24.7",
     "axios": "^1.8.4",
     "clsx": "^2.1.1",
     "firebase": "^11.4.0",
+    "framer-motion": "^12.38.0",
     "lucide-react": "^0.488.0",
     "my-app": "file:",
     "next": "^15.2.4",
